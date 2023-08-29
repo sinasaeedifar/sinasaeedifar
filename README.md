@@ -87,6 +87,6 @@ When I'm not coding, you'll find me playing video gamesðŸŽ®, watching footballâš
     <img alt="Developer Portfolio Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=sinasaeedifar&repo=typescript-demo" />
   </a>
   <a href="https://github.com/sinasaeedifar/proshop">
-    <img alt="ProShop Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=car_showcase" />
+    <img alt="ProShop Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=sinasaeedifar&repo=car_showcase" />
   </a>
 </div>
