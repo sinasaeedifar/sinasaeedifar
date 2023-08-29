@@ -74,8 +74,8 @@ When I'm not coding, you'll find me playing video games🎮, watching football�
 ## 📊 My GitHub Stats
 
 <div align="left">
-  <img alt="Sina's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ysherqawi&count_private=true&show_icons=true" />
-  <img alt="Sina's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysherqawi" />
+  <img alt="Sina's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sinasaeedifar&count_private=true&show_icons=true" />
+  <img alt="Sina's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinasaeedifar" />
 </div>
 
 <br/>
@@ -83,10 +83,10 @@ When I'm not coding, you'll find me playing video games🎮, watching football�
 ## 💻 Latest Projects
 
 <div align="left">
-  <a href="https://github.com/ysherqawi/developer-portfolio">
-    <img alt="Developer Portfolio Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=developer-portfolio" />
+  <a href="https://github.com/sinasaeedifar/developer-portfolio">
+    <img alt="Developer Portfolio Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=sinasaeedifar&repo=typescript-demo" />
   </a>
-  <a href="https://github.com/ysherqawi/proshop">
-    <img alt="ProShop Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=proshop" />
+  <a href="https://github.com/sinasaeedifar/proshop">
+    <img alt="ProShop Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=car_showcase" />
   </a>
 </div>
