@@ -1,13 +1,8 @@
+<img align="center" width="700"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--NzgxrJEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdvk568xm4hmk3bjfsqs.gif" alt="bannerGif" />
 <h1 align="center">Hi 👋, I'm Sina</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img align="right" width="700"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--NzgxrJEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdvk568xm4hmk3bjfsqs.gif" alt="bannerGif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinasaeedifar&label=Profile%20views&color=0e75b6&style=flat" alt="sinasaeedifar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinasaeedifar" alt="sinasaeedifar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sina.saeedifar" target="blank"><img src="https://img.shields.io/twitter/follow/sina.saeedifar?logo=twitter&style=for-the-badge" alt="sina.saeedifar" /></a> </p>
 <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="CodingGif" />
-
 - 🔭 I’m currently working on [Mresalat Super Application](https://new.mresalat.ir/)
 
 - 🌱 I’m currently learning **TypeScript , NextJs 13 ,Tailwind and Cypress**
