@@ -1,13 +1,13 @@
-# Hey there <img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/wave.gif" alt="Waving Hand" width="40">, I'm [Yasser!](https://ysherqawi.github.io)
+# Hey there <img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/wave.gif" alt="Waving Hand" width="40">, I'm [Sina!](https://saeedifar.github.io)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ysherqawi.ysherqawi" alt="Number of Yasser's Profile Visitors" align="right" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sina.saeedifar" alt="Number of Sina's Profile Visitors" align="right" />
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ysherqawi">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Yasser's LinkdeIn" width="25"/>
+  <a href="https://www.linkedin.com/in/saeedifar">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Sina's LinkdeIn" width="25"/>
   </a>
-  <a href="mailto:ysherqawi@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Yasser's Email" width="25" />
+  <a href="mailto:sina.saeedifar@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Sina's Email" width="25" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
 <br/>
 
 <p align="left">
-Hi, I'm Yasser Sherqawi. I'm an enthusiastic, motivated developer. seeking to apply and expand my knowledge
+Hi, I'm Sina Saeedifar. I'm an enthusiastic, motivated developer. seeking to apply and expand my knowledge
 and skills towards working in a collaborative environment. where I can make a contribution, and learning every day
 to grow professionally in the IT field.
 </p>
@@ -74,8 +74,8 @@ When I'm not coding, you'll find me playing video games🎮, watching football�
 ## 📊 My GitHub Stats
 
 <div align="left">
-  <img alt="Yasser's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ysherqawi&count_private=true&show_icons=true" />
-  <img alt="Yasser's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysherqawi" />
+  <img alt="Sina's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ysherqawi&count_private=true&show_icons=true" />
+  <img alt="Sina's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysherqawi" />
 </div>
 
 <br/>
